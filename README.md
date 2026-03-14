@@ -100,13 +100,11 @@ To avoid internet access issues (especially in mainland China), **do NOT downloa
 
 Instead, use one of the following options:
 
-* datasets generated with **scikit-learn synthetic dataset utilities (e.g., `make_classification`, `make_moons`, etc.), or
+* datasets generated with scikit-learn synthetic dataset utilities (e.g., `make_classification`, `make_moons`, etc.), or
 * the datasets already included in the GitHub repository:
 
   * `mnist_train.csv`
   * `mnist_test.csv`
-
-These datasets should be used directly from the repository.
 
 ---
 
