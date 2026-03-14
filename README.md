@@ -189,7 +189,7 @@ Your PR should contain:
 * improved lecture content
 * RISE-compatible slides
 
-IF DONE WITH OPENCLAW, YOU GET BONUS NOTE FOR THIS TASK.
+IF PR IS DONE WITH OPENCLAW, YOU GET BONUS NOTES FOR THIS TASK.
 
 ---
 
@@ -204,16 +204,3 @@ Instead run it in a **sandboxed environment**, such as:
 * a **Docker container**
 
 This avoids potential **security risks**, since AI agents may execute system commands or access files.
-
----
-
-# Expected Learning Outcomes
-
-By completing this project, students will practice:
-
-* working with **AI agents**
-* interacting with **large language models**
-* improving **Jupyter lecture notebooks**
-* converting **TensorFlow → PyTorch**
-* working with **RISE presentation notebooks**
-* using the **GitHub fork → pull request workflow**
