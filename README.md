@@ -15,7 +15,7 @@ OpenClaw is an autonomous AI assistant that can interact with large language mod
 
 You will use OpenClaw to **fix and improve a lecture notebook used in this course**.
 
-This project is worth **15 points**.
+This project is worth **20 points**.
 
 ---
 
