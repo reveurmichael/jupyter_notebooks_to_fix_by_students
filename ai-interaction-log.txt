@@ -3,7 +3,6 @@ AI 交互日志 - Project 2: Fix a Lecture Notebook Using OpenClaw
 ================================================================================
 
 项目名称：使用 OpenClaw 修复神经网络 Lecture Notebook
-学生：[学生姓名]
 日期：2026-03-14
 模型：bailian/qwen3.5-plus
 GitHub: https://github.com/Isla-AI/jupyter_notebooks_to_fix_by_students
@@ -275,10 +274,6 @@ weighted avg     0.9253    0.9250    0.9248      1000
 - training_curves.png（训练曲线）
 - confusion_matrix.png（混淆矩阵）
 - ai-interaction-log.txt（本文件，AI 交互日志）
-
-【准备提交 Pull Request】
-下一步：将改进的 notebook 提交到原仓库
-https://github.com/reveurmichael/jupyter_notebooks_to_fix_by_students
 
 ================================================================================
 日志生成时间：2026-03-14 13:25
